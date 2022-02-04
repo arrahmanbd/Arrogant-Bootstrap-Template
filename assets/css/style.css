@@ -74,6 +74,10 @@ button.call-me a {
     padding: 8px 18px;
 }
 
+.btn-outline-light{
+    margin-left:4px;
+    marginright:4px;
+}
 .clean-hero .text strong{
     color:#dad618;
 }
